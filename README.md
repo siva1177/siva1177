@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siva
-- 👀 I’m interested in Devops 
-- 🌱 I’m currently learning Terraform, Kubernates, GoLang, Dockers
-- 💞️ I’m looking to collaborate on IaC, CI/CD pipeline
+- 👀 I’m interested in Cloud/Devops 
+- 🌱 I’m currently learning AWS, Azure, Terraform, Kubernates, GoLang, Dockers
+- 💞️ I’m looking to collaborate on IaC using CI/CD pipeline using reusable codes
 - 📫 you can reach me through vksivaraman@gmail.com 
 
 <!---
